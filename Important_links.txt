@@ -1,0 +1,5 @@
+How to Program / Upload Code to ESP32-CAM AI-Thinker (Arduino IDE): https://randomnerdtutorials.com/program-upload-code-esp32-cam/
+
+Guide for I2C OLED Display with Arduino: https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
+
+Object Detection using ESP32-CAM and Edge Impulse: https://circuitdigest.com/microcontroller-projects/object-recognition-using-esp32-cam-and-edge-impulse
