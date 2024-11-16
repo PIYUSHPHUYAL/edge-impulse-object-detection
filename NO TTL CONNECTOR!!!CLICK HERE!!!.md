@@ -80,7 +80,8 @@ To program the ESP32-CAM:
 ---
 
 ## Diagram for Reference
-Use the wiring diagram below for easy understanding (replace this with a clear image of your setup).
+Use the wiring diagram below for easy understanding 
+![Arduino+ESP32CAM](Images/Arduino+ESP32CAM.png)
 
 ---
 
