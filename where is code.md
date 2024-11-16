@@ -15,7 +15,7 @@ Feel free to:
 ## Need Help? Watch This Video 📺
 
 If you’re unsure where to start or face confusion at any step, this YouTube tutorial from **Circuit Digest** provides an excellent explanation:  
-[**How to Program ESP32-CAM with Arduino**](https://youtu.be/bZIKVaD3dRk?si=Rgcfnb7bGQqz1r0W)  
+[**How to do Object Detection using ESP32-CAM and Edge Impulse YOLO Model**](https://youtu.be/bZIKVaD3dRk?si=Rgcfnb7bGQqz1r0W)  
 
 ### Why This Video?
 - Simple and clear guidance.
